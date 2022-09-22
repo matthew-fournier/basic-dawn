@@ -36,7 +36,8 @@
       ],
       "settings": {
         "fave_val": "hello ef",
-        "image_overlay_opacity": 40,
+        "fake_val_2": "No Test Value",
+        "image_overlay_opacity": 80,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
